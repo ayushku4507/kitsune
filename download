@@ -1,0 +1,17 @@
+node_modules/
+dist/
+release/
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+.env.*
+!.env.example
+*.db
+*.sqlite3
+token.json
+client_secret*.json
+credentials/
+logs/
+.DS_Store
